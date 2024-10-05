@@ -109,7 +109,10 @@ model.fit(X_train, y_train)
 The web application was developed using **Flask**, which allows users to input data and get predictions on whether the patient is likely to have diabetes.
 
 ### Example Input Form:
-![Input Form Screenshot](path_to_input_form_screenshot)
+![Input Form Screenshot](https://github.com/chandrashekhard17/Diabetes-Prediction---End-to-End-ML-Projects/blob/main/Screenshots/Screenshot%20(188).png)
+
+### Example Data Filling
+![Data filling]()
 
 ### Example Prediction Output:
 ![Prediction Output Screenshot](path_to_prediction_output_screenshot)
