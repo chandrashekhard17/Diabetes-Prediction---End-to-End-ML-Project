@@ -112,7 +112,7 @@ The web application was developed using **Flask**, which allows users to input d
 ![Input Form Screenshot](https://github.com/chandrashekhard17/Diabetes-Prediction---End-to-End-ML-Projects/blob/main/Screenshots/Screenshot%20(188).png)
 
 ### Example Data Filling
-![Data filling]()
+![Data filling](https://github.com/chandrashekhard17/Diabetes-Prediction---End-to-End-ML-Projects/blob/main/Screenshots/Screenshot%20(189).png)
 
 ### Example Prediction Output:
 ![Prediction Output Screenshot](path_to_prediction_output_screenshot)
