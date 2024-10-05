@@ -115,7 +115,7 @@ The web application was developed using **Flask**, which allows users to input d
 ![Data filling](https://github.com/chandrashekhard17/Diabetes-Prediction---End-to-End-ML-Projects/blob/main/Screenshots/Screenshot%20(189).png)
 
 ### Example Prediction Output:
-![Prediction Output Screenshot](path_to_prediction_output_screenshot)
+![Prediction Output Screenshot](https://github.com/chandrashekhard17/Diabetes-Prediction---End-to-End-ML-Projects/blob/main/Screenshots/Screenshot%20(190).png)
 
 ---
 
@@ -144,7 +144,7 @@ You can further optimize the model by hyperparameter tuning or using more advanc
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/diabetes-prediction-logistic-regression.git](https://github.com/chandrashekhard17/Diabetes-Prediction---End-to-End-ML-Projects.git
+   git clone https://github.com/chandrashekhard17/Diabetes-Prediction---End-to-End-ML-Projects.git
    ```
 2. Install the dependencies:
    ```bash
