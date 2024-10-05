@@ -86,7 +86,7 @@ Here are some key findings from the Exploratory Data Analysis:
 - Patients with **high BMI** tend to have a higher chance of diabetes.
 
 ### Example Visualization:
-![Glucose Distribution](path_to_glucose_distribution_screenshot)
+![Glucose Distribution](https://github.com/chandrashekhard17/Diabetes-Prediction---End-to-End-ML-Projects/blob/main/Screenshots/output.png)
 
 You can see that most diabetic patients have higher glucose levels compared to non-diabetic patients.
 
@@ -127,16 +127,6 @@ The model achieved an accuracy of **78%** on the test set, with the following pe
 - **F1-Score**: 0.78
 
 You can further optimize the model by hyperparameter tuning or using more advanced techniques like ensemble learning.
-
----
-
-## Screenshots
-
-### Data Exploration:
-![Data Exploration Screenshot](path_to_data_exploration_screenshot)
-
-### Model Results:
-![Model Results Screenshot](path_to_model_results_screenshot)
 
 ---
 
