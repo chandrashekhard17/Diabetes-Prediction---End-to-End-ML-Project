@@ -141,7 +141,7 @@ You can further optimize the model by hyperparameter tuning or using more advanc
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/diabetes-prediction-logistic-regression.git
+   git clone https://github.com/yourusername/diabetes-prediction-logistic-regression.git](https://github.com/chandrashekhard17/Diabetes-Prediction---End-to-End-ML-Projects.git
    ```
 2. Install the dependencies:
    ```bash
