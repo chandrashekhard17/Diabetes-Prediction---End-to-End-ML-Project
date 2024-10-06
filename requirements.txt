@@ -4,3 +4,5 @@ numpy
 seaborn
 Flask
 gunicorn>=20.0.0
+pip freeze > requirements.txt
+
