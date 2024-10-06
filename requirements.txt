@@ -3,3 +3,4 @@ scikit-learn
 numpy
 seaborn
 Flask
+gunicorn>=20.0.0
